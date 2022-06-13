@@ -1,0 +1,14 @@
+1.- Crear repositorio en github y la carpeta de forma local en mi equipo.
+2.- Crear un archivo txt y un html.
+3.- Subir los archivos a github, ejecutando los siguientes comandos en el mismo orden.
+    - git init
+    - git add .
+    - git commit -m "primer commit"
+    - git branch -M main
+    - git remote add origin https://github.com/dzapata1995/basic_repo.git
+    - git push -u origin main
+4.- Cambios realizados en los archivos.
+5.- Actualizar los archivos al repositorio, ejecutandolos siguientes comandos.
+    - git add .
+    - git commit -m "segundo commit"
+    - git push
